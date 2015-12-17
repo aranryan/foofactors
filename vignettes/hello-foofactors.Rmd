@@ -2,7 +2,7 @@
 title: "Foofactors vignette"
 author: "Aran Ryan"
 date: "`r Sys.Date()`"
-output: 
+output:
   rmarkdown::html_vignette:
     toc: true
     keep_md: true
